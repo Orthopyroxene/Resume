@@ -1,4 +1,4 @@
-# Welcome to My Gold Prospecting Resource
+# Welcome to My Repo!
 
 Hello! I'm Andrew, a passionate individual with a background in Applied Geology and Geospatial Intelligence. I am currently expanding my knowledge in Information Technology (Programming). This repository serves as a hub for sharing my work, insights, and valuable resources related to gold prospecting in Western Australia, as well as my contributions to the field of geochemical visualization and exploration technologies.
 
@@ -8,7 +8,7 @@ Explore the rich geological history of Western Australia through an interactive 
 
 - **Main Web Application:** [Gold Prospecting in WA](http://157.245.201.158/~Barley/webapp/Index.html)
   
-  Navigate through various interactive maps and resources designed to provide an in-depth understanding of the terrain, including key locations and geological insights.
+- Navigate through various interactive maps and resources designed to provide an in-depth understanding of the terrain, including key locations and geological insights.
 
 ## Featured Articles
 
