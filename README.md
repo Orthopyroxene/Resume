@@ -24,7 +24,7 @@ I have authored several articles focusing on enhancing geochemical visualization
 
 ## About This Repository
 
-This repository contains the source code, documentation, and additional resources for the web application and other related projects. Feel free to explore the directories and files for a closer look at the work involved in creating these resources.
+This repository contains the source code, documentation, and additional resources for the web application and other related projects. Feel free to explore the directories and files for a closer look at the work involved in creating these resources, you will need to change into the branch called "Andrew" to see code documents.
 
 ### Contributing
 
