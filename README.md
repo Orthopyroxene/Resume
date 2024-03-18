@@ -1,6 +1,6 @@
-# Welcome to Andrew Barley's Gold Prospecting Resources
+# Welcome to My Gold Prospecting Resource
 
-Hello! I'm Andrew, a passionate individual with a background in Applied Geology, Geospatial Intelligence, and currently expanding my knowledge in Information Technology (Programming). This repository serves as a hub for sharing my work, insights, and valuable resources related to gold prospecting in Western Australia, as well as my contributions to the field of geochemical visualization and exploration technologies.
+Hello! I'm Andrew, a passionate individual with a background in Applied Geology and Geospatial Intelligence. I am currently expanding my knowledge in Information Technology (Programming). This repository serves as a hub for sharing my work, insights, and valuable resources related to gold prospecting in Western Australia, as well as my contributions to the field of geochemical visualization and exploration technologies.
 
 ## Gold Prospecting in Western Australia - Interactive Web Application
 
@@ -12,7 +12,7 @@ Explore the rich geological history of Western Australia through an interactive 
 
 ## Featured Articles
 
-I have authored several articles focusing on enhancing geochemical visualization in exploration and the practical applications of Micro-XRF technology. Below are links to these articles for further reading:
+I have authored several articles focusing on enhancing geochemical visualization in exploration and the practical applications of Micro-XRF technology. Below are links to some of my favourite articles for further reading:
 
 - **Enhancing Geochemical Visualization in Exploration - Part 1:** [Read Here](https://www.portaspecs.com/enhancing-geochemical-visualization-in-exploration/)
   
@@ -32,6 +32,6 @@ Contributions, feedback, and discussions are welcome! If you're interested in co
 
 ### Contact
 
-Should you wish to reach out directly for collaboration or inquiries, please contact me at: barleyandrewjohn@gmail.com
+Should you wish to reach out directly for collaboration or inquiries, please contact me at: barleyandrewjohn@gmail.com 
 
-Thank you for visiting this repository, and I hope you find these resources informative and inspiring in your quest for gold prospecting or understanding the geological wonders of Western Australia!
+Thank you for visiting this repository, and I hope you find these resources informative!
