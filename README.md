@@ -22,6 +22,9 @@ I have authored several articles focusing on enhancing geochemical visualization
   
 - **The Elemental Message from the Land of the Wallaby:** [Read Here](https://www.portaspecs.com/the-elemental-message-from-the-land-of-the-wallaby/)
 
+## Articles on mineralogy I've worked on
+- PVW Resources’ metallurgical tests deliver positive results supporting Tanami Heavy Rare Earth Project potential [Read Here](https://www.proactiveinvestors.com/companies/news/978207/pvw-resources-metallurgical-tests-deliver-positive-results-supporting-tanami-heavy-rare-earth-project-potential-978207.html)
+
 ## About This Repository
 
 This repository contains the source code, documentation, and additional resources for the web application and other related projects. Feel free to explore the directories and files for a closer look at the work involved in creating these resources, you will need to change into the branch called "Andrew" to see code documents.
@@ -32,6 +35,8 @@ Contributions, feedback, and discussions are welcome! If you're interested in co
 
 ### Contact
 
-Should you wish to reach out directly for collaboration or inquiries, please contact me at: barleyandrewjohn@gmail.com 
+Reach out directly for collaborations or inquiries:
+- **Email:** barleyandrewjohn@gmail.com
+- **LinkedIn:** [Andrew Barley](https://www.linkedin.com/in/andrew-barley-2ab43b175/)
 
 Thank you for visiting this repository, and I hope you find these resources informative!
