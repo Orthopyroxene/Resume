@@ -1,6 +1,6 @@
 # Welcome to My Repo!
 
-Hello! I'm Andrew, a passionate individual with a background in Applied Geology and Geospatial Intelligence. I am currently expanding my knowledge in Information Technology (Programming). This repository serves as a hub for sharing my work, insights, and valuable resources related to gold prospecting in Western Australia, as well as my contributions to the field of geochemical visualization and exploration technologies.
+Hello! I'm Andrew, a passionate individual with a background in Applied Geology and Geospatial Intelligence. I am currently expanding my knowledge in Information Technology (Programming) at Tafe full-time. This repository serves as a hub for sharing my work, professional and academic.
 
 # Projects from my Post Graduate Studies
 
@@ -13,7 +13,7 @@ Explore the rich geological history of Western Australia through an interactive 
 
 ## Remote Sensing Report Summary - Mesquite Invasion in Pilbara
 
-I conducted a detailed study on the invasive spread of Mesquite (Prosopis) in the Pilbara region of Western Australia. The report titled "Mesquite Invasion in the Pilbara, Western Australia" utilized advanced remote sensing techniques to analyze the distribution and control measures over time.
+I conducted a detailed study on the invasive spread of Mesquite in the Pilbara region of Western Australia. The report titled "Mesquite Invasion in the Pilbara, Western Australia" utilized advanced remote sensing techniques to analyze the distribution and control measures over time.
 
 ### Key Points of the Study
 - **Objective:** To assess the effectiveness of various control methods used over the decades and recommend strategies for future management using remote sensing data.
@@ -29,7 +29,7 @@ For a detailed dive into the data, methodologies, and my conclusions, please ref
 
 ## Dungeons and Dragons Web Mapping Application
 
-As part of my ongoing projects in QGIS, I am developing a unique web mapping application tailored for Dungeons and Dragons enthusiasts. This application allows users to create detailed, interactive maps based on real-world suburb data, enabling them to design and manage campaigns with geographic precision.
+As part of my ongoing projects in QGIS, I am developing a unique web mapping application tailored for Dungeons and Dragons enthusiasts. This application allows users to create detailed, interactive maps based on real-world suburb data, enabling them to design and manage campaigns with geographic precision, for more information [click here](https://github.com/Orthopyroxene/Fantasy-Maps-with-QGIS/blob/main/README.md).
 
 ### Project Overview
 - **Objective:** To integrate real-world geography into D&D campaigns by transforming suburb maps into fantasy settings. 
@@ -78,4 +78,4 @@ Reach out directly for collaborations or inquiries:
 - **Email:** barleyandrewjohn@gmail.com
 - **LinkedIn:** [Andrew Barley](https://www.linkedin.com/in/andrew-barley-2ab43b175/)
 
-Thank you for visiting this repository, and I hope you find these resources informative!
+Thank you for visiting this repository, and I hope you find this page helpful!
